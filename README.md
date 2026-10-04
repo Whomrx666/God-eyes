@@ -2,12 +2,12 @@
 ![god-eyes preview](god-eyes.jpg)
 
 <p align="center">
-  <strong>Public IP Camera Reconnaissance Tool – Multi-Engine Dorking & Insecam Scraper</strong><br>
-  <em>"Vigilance in the neon-lit shadows of cyberspace." – Mr.X</em>
+  <strong>Public IP Camera Reconnaissance Tool â€“ Multi-Engine Dorking & Insecam Scraper</strong><br>
+  <em>"Vigilance in the neon-lit shadows of cyberspace." â€“ Mr.X</em>
 </p>
 
 ## Introduction
-GOD-EYES v4.0 – NEON OVERDRIVE is a cutting-edge surveillance and reconnaissance tool designed to discover publicly accessible IP cameras worldwide. Integrating **multi-source scraping** (including the Insecam directory) and **multi-engine dorking** across Yahoo, Startpage, Bing, DuckDuckGo, Mojeek, and Searx, it locates live camera feeds efficiently. The tool verifies streams (MJPEG, JPEG snapshots, video feeds), enriches camera data with GeoIP location, and exports results in JSON, CSV, or HTML formats. All wrapped in a sleek neon cyberpunk terminal interface optimized for responsive terminal widths.
+GOD-EYES v4.0 â€“ NEON OVERDRIVE is a cutting-edge surveillance and reconnaissance tool designed to discover publicly accessible IP cameras worldwide. Integrating **multi-source scraping** (including the Insecam directory) and **multi-engine dorking** across Yahoo, Startpage, Bing, DuckDuckGo, Mojeek, and Searx, it locates live camera feeds efficiently. The tool verifies streams (MJPEG, JPEG snapshots, video feeds), enriches camera data with GeoIP location, and exports results in JSON, CSV, or HTML formats. All wrapped in a sleek neon cyberpunk terminal interface optimized for responsive terminal widths.
 
 **Important:** This tool is strictly intended for educational and authorized security research use only.
 
@@ -66,7 +66,7 @@ This tool is made for **educational and authorized security research purposes on
 
 ## CONNECT WITH ME :
 
-[![Website](https://img.shields.io/badge/WEBSITE-VISIT-red?style=for-the-badge&logo=blogger)](https://whomrx.pages.dev)
+[![Website](https://img.shields.io/badge/WEBSITE-VISIT-red?style=for-the-badge&logo=googlechrome)](https://whomrx.pages.dev) <br>
 [![Blog](https://img.shields.io/badge/BLOG-VISIT-red?style=for-the-badge&logo=blogger)](https://whomrxhackers.blogspot.com)
 [![Twitter](https://img.shields.io/badge/TWITTER-FOLLOW-red?style=for-the-badge&logo=x)](https://twitter.com/whomrx666)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-CHATME-red?style=for-the-badge&logo=whatsapp)](https://wa.me/6285926601133?text=Halo%2C%20Mr.X)
